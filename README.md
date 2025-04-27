@@ -275,7 +275,7 @@ tar czvf dashboard.tar.gz /dashboard
 * 如何从Docker镜像中导出文件: https://www.pkslow.com/archives/extract-files-from-docker-image
 * grpcwebproxy: https://github.com/improbable-eng/grpc-web/tree/master/go/grpcwebproxy
 * Applexad 的哪吒官方改版的面板二进制文件: https://github.com/applexad/nezha-binary-build
-* 感谢VTEX的支持：https://vtexs.com/
+* 感谢VTEXS的支持：https://vtexs.com/
 
 
 ## 免责声明:
